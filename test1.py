@@ -1,6 +1,4 @@
-from random import Random
-from math import log2
-from .passwordArguments import PasswordArguments
+from passwordArguments import PasswordArguments
 
 arg = PasswordArguments()
 
