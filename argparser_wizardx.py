@@ -1,6 +1,5 @@
 from argparse import ArgumentParser
 from string import digits, ascii_letters
-from sys import argv
 
 
 class ArgParser:

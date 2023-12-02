@@ -1,6 +1,5 @@
 from argparser_wizardx import ArgParser
 from generator_passwd_wizardx import Pwgen
-from sys import argv
 
 a = ArgParser()
 arg_int = dict(type=int, default=8)
